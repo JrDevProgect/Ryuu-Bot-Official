@@ -1,0 +1,35 @@
+{
+  "name": "RyuuBot Official",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.7.7",
+    "bluebird": "^2.11.0",
+    "chatbox-dev-ai": "^1.0.4",
+    "cheerio": "^0.22.0",
+    "express": "^4.21.0",
+    "freeport": "^1.0.5",
+    "gradient-string": "^2.0.2",
+    "http-proxy-agent": "^7.0.2",
+    "https-proxy-agent": "^4.0.0",
+    "mqtt": "^3.0.0",
+    "node-cron": "^3.0.3",
+    "npmlog": "^1.2.0",
+    "proxy-chain": "^2.5.3",
+    "puppeteer-core": "^23.3.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
+    "request": "^2.53.0",
+    "tough-cookie": "^5.0.0",
+    "tough-cookie-file-store": "^2.0.3",
+    "websocket-stream": "^5.5.0"
+  }
+}

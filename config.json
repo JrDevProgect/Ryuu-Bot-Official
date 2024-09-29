@@ -1,0 +1,24 @@
+{
+    "prefix": "/",
+    "owner": "Owner Name",
+    "botname": "Bot Name",
+    "apiOptions": {
+        "forceLogin": false,
+        "logLevel": "silent",
+        "selfListen": false,
+        "autoReconnect": false,
+        "updatePresence": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+        "autoMarkDelivery": false,
+        "autoMarkRead": false,
+        "online": false,
+        "listenEvents": true
+    },
+    "adminBot": [
+        "Owner UID"
+    ],
+    "autoLoad": true,
+    "autopost": true,
+    "autogreet": true, 
+    "proxy": "49.157.62.203:8181" 
+}
