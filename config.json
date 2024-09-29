@@ -1,7 +1,7 @@
 {
     "prefix": "/",
-    "owner": "Owner Name",
-    "botname": "Bot Name",
+    "owner": "Ex 卝 বয়ফ্রেন্ডヅ",
+    "botname": "Ex 10-bot",
     "apiOptions": {
         "forceLogin": false,
         "logLevel": "silent",
@@ -15,7 +15,7 @@
         "listenEvents": true
     },
     "adminBot": [
-        "Owner UID"
+        "100072320790038"
     ],
     "autoLoad": true,
     "autopost": true,
